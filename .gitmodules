@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CVThresh"]
 	path = CVThresh
 	url = https://github.com/cran/CVThresh
-	shallow = true
-	registered = true
 [submodule "EMD"]
 	path = EMD
 	url = https://github.com/cran/EMD
-	shallow = true
-	registered = true
 [submodule "EPT"]
 	path = EPT
 	url = https://github.com/cran/EPT
-	shallow = true
-	registered = true
 [submodule "SynchWave"]
 	path = SynchWave
 	url = https://github.com/cran/SynchWave
-	shallow = true
-	registered = true
