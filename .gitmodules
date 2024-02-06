@@ -11,6 +11,9 @@
 [submodule "EPT"]
 	path = EPT
 	url = https://github.com/cran/EPT
+[submodule "GSD"]
+	path = GSD
+	url = https://github.com/cran/GSD
 [submodule "SynchWave"]
 	path = SynchWave
 	url = https://github.com/cran/SynchWave
