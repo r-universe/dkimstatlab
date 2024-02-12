@@ -13,7 +13,7 @@
 	url = https://github.com/cran/EPT
 [submodule "GSD"]
 	path = GSD
-	url = https://github.com/cran/GSD
+	url = https://github.com/dkimstatlab/gsd
 [submodule "SynchWave"]
 	path = SynchWave
 	url = https://github.com/cran/SynchWave
